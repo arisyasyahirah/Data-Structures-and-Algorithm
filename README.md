@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithm
-#4 This repository contains my coursework, lab exercises, and implementations for the Data Structures and Algorithms (DSA) lab. It showcases fundamental and advanced concepts through clean, organized, and well-commented code.
+ This repository contains my coursework, lab exercises, and implementations for the Data Structures and Algorithms (DSA) lab. It showcases fundamental and advanced concepts through clean, organized, and well-commented code.
 
-#h4 The goal of this repo is to strengthen my understanding of core DSA topics while building a strong foundation for technical interviews and real-world problem solving.
+ The goal of this repo is to strengthen my understanding of core DSA topics while building a strong foundation for technical interviews and real-world problem solving.
 
 What’s Inside
 
